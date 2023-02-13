@@ -7,6 +7,7 @@
     <list default="true" id="f58f94f8-1d22-4178-985b-f8073ac2358f" name="Changes" comment="Added DistributionRule">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/student/distribution/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/student/distribution/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/student/distribution/domain/data/ImportCsvData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/student/distribution/domain/data/ImportCsvData.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/student/distribution/domain/data/ImportExcelData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/student/distribution/domain/data/ImportExcelData.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/student/distribution/domain/distribution/Distribution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/student/distribution/domain/distribution/Distribution.kt" afterDir="false" />
     </list>
@@ -266,16 +267,5 @@
     <MESSAGE value="Separated distribution to uniformly and merely. Created distributing uniformly to full" />
     <MESSAGE value="Added DistributionRule" />
     <option name="LAST_COMMIT_MESSAGE" value="Added DistributionRule" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/ru/student/distribution/domain/distribution/Distribution.kt</url>
-          <line>49</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
